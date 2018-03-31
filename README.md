@@ -1,17 +1,32 @@
 # 2018
 
-## Public
+## iOS
+
+### GitHub Only
 
 - [Slack Stick Pack](https://github.com/atfinke/SlackStickerPack)
-- [Creating with Code](https://github.com/atfinke/CreatingWithCode)
+- [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
+- [McGonagall](https://github.com/NUDelta/mcgonagall)
+
+### App Store
+
+- [Heart Calendar](https://github.com/atfinke/heart-cal)
+
+## macOS
+
 - [Time](https://github.com/atfinke/time)
 - [Autocomplete](https://github.com/atfinke/Autocomplete)
-- [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
+
+## Web
+
 - [NUCTECScraper](https://github.com/atfinke/NUCTECScraper)
-- [Heart Calendar](https://github.com/atfinke/heart-cal)
 - [YellKey Extension](https://github.com/atfinke/YellKey-Extension)
-- [McGonagall](https://github.com/NUDelta/mcgonagall)
+
+## Other
+
+- [Creating with Code](https://github.com/atfinke/CreatingWithCode)
 
 ## Private
 
-- [EECS-111 Work](https://github.com/atfinke/EECS-111)
+- [DisneyMLv2](https://github.com/atfinke/DisneyMLv2)
+- [EECS-111](https://github.com/atfinke/EECS-111)
