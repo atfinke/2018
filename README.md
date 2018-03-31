@@ -1,16 +1,16 @@
-# 2018
+# 2018 Projects
 
 ## iOS
+
+### App Store
+
+- [Heart Calendar](https://github.com/atfinke/heart-cal)
 
 ### GitHub Only
 
 - [Slack Stick Pack](https://github.com/atfinke/SlackStickerPack)
 - [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
 - [McGonagall](https://github.com/NUDelta/mcgonagall)
-
-### App Store
-
-- [Heart Calendar](https://github.com/atfinke/heart-cal)
 
 ## macOS
 
