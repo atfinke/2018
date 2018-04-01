@@ -1,4 +1,4 @@
-# 2018 New Projects
+# New Projects
 
 ## iOS
 
@@ -27,5 +27,24 @@
 
 ## Private
 
-- [DisneyMLv2](https://github.com/atfinke/DisneyMLv2)
+- [DisneyMLv2](https://github.com/atfinke/DisneyMLv2) (Python + GCP)
 - [EECS-111](https://github.com/atfinke/EECS-111)
+
+# Updated Projects
+
+## iOS
+
+### App Store
+
+- [Metra](https://github.com/atfinke/Metra)
+- [WikiRaces](https://github.com/atfinke/WikiRaces)
+- [Wildcat Wash](https://github.com/atfinke/Wildcat-Wash)
+
+### GitHub Only
+
+- [Spotify Shuffler](https://github.com/atfinke/SpotifyShuffler)
+
+## Private
+
+- [DisneyML](https://github.com/atfinke/DisneyML) (Swift + macOS)
+- [Website](https://github.com/atfinke/Website)
