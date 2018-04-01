@@ -10,7 +10,6 @@
 
 - [Slack Sticker Pack](https://github.com/atfinke/SlackStickerPack)
 - [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
-- [McGonagall](https://github.com/NUDelta/mcgonagall)
 
 ## macOS
 
