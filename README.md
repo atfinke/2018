@@ -3,11 +3,8 @@
 # New Projects
 
 <br>
-<br>
 
 ## iOS
-
-<br>
 
 ### App Store
 
@@ -51,11 +48,8 @@
 # Updated Projects
 
 <br>
-<br>
 
 ## iOS
-
-<br>
 
 ### App Store
 
