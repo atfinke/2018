@@ -12,6 +12,7 @@
 
 ### GitHub Only
 
+- [Music Tracker](https://github.com/atfinke/Music-Tracker)
 - [Slack Sticker Pack](https://github.com/atfinke/SlackStickerPack)
 - [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
 
@@ -41,6 +42,7 @@
 
 - [DisneyMLv2](https://github.com/atfinke/DisneyMLv2) (Python + GCP)
 - [EECS-111](https://github.com/atfinke/EECS-111)
+- [EECS-211](https://github.com/atfinke/EECS-211)
 
 <br>
 <br>
