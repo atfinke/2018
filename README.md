@@ -20,7 +20,7 @@
 - [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
   - Capture UIWindow screenshot with camera input
 - [AR Lost and Found](https://github.com/atfinke/AR-Lost-and-Found)
-  - See every object lost on the MTA since first launch
+  - See every object lost on the MTA since first app launch
 
 <br>
 
