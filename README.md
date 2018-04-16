@@ -15,6 +15,7 @@
 - [Music Tracker](https://github.com/atfinke/Music-Tracker)
 - [Slack Sticker Pack](https://github.com/atfinke/SlackStickerPack)
 - [Camera + IOSurface Screen Capture](https://github.com/atfinke/Camera-IOSurfaceCapture)
+- [AR Lost and Found](https://github.com/atfinke/AR-Lost-and-Found)
 
 <br>
 
@@ -62,6 +63,7 @@
 ### GitHub Only
 
 - [Spotify Shuffler](https://github.com/atfinke/SpotifyShuffler)
+- [AVCapture-Vision](https://github.com/atfinke/AVCapture-Vision)
 
 <br>
 
