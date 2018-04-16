@@ -89,4 +89,7 @@
 - [DisneyML](https://github.com/atfinke/DisneyML)
   - Scraps disney park wait times + machine learning prediction (swift + macOS)
 - [Website](https://github.com/atfinke/Website)
-  - Personal website
+  - [/](https://www.andrewfinke.com/)
+  - [/Apple](https://www.andrewfinke.com/apple.html)
+  - [/Compiling My Projects](https://www.andrewfinke.com/compile-github.html)
+  - [/Heart Calendar Privacy Policy](https://www.andrewfinke.com/heart-privacy.html)
