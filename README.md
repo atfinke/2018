@@ -30,7 +30,12 @@
   - Floating macOS window w/ time
 - [Autocomplete](https://github.com/atfinke/Autocomplete)
   - Hacky project to try and get Xcode style autocomplete for English
-
+- [Spotify - Add to Playlist](https://github.com/atfinke/Spotify-Add-to-Playlist)
+  - Adds the currently playing Spotify track to a specified playlist
+- [Services](https://github.com/atfinke/Services)
+  - Some macOS services I use on my machines
+- [Fidelity v2](https://github.com/atfinke/Fidelityv2)
+  - Scraps Fidelity portfolio data
 <br>
 
 ## Web
@@ -56,6 +61,8 @@
   - Coursework
 - [EECS-211](https://github.com/atfinke/EECS-211)
   - Coursework
+- [Fidelity](https://github.com/atfinke/Fidelity)
+  - Scraps Fidelity portfolio data
   
 <br>
 <br>
