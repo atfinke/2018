@@ -21,7 +21,14 @@
   - Capture UIWindow screenshot with camera input
 - [AR Lost and Found](https://github.com/atfinke/AR-Lost-and-Found)
   - See every object lost on the MTA since first app launch
-
+- [ButtonTapper](https://github.com/atfinke/ButtonTapper)
+  - Getting XCTest to play button tapping games from the App Store
+- [Lighthouse](https://github.com/atfinke/Lighthouse)
+  - Experimental grid feedback interface for Rain X
+- [Wave](https://github.com/atfinke/Wave)
+  - Hackathon project for create one large screen from multiple iOS devices
+  
+  
 <br>
 
 ## macOS
@@ -41,7 +48,11 @@
 - [Dorm Room Client](https://github.com/atfinke/Dorm-Room-Client)
   - Runs on local iMac. Checks for new issues in the dorm repo and updates lights accordingly.
 - [Dorm Public](https://github.com/AndrewDorm/Public)
-  - Repo used to track light updates.
+  - Repo used to track light updates
+- [Drip](https://github.com/atfinke/Drip)
+  - Super simple utility for helping me transcibe interviews
+- [Stats Utilities](https://github.com/atfinke/Stats-Utilities)
+  - Random stat utilities for IEMS 201
 
 <br>
 
@@ -58,6 +69,11 @@
 
 - [Creating with Code](https://github.com/atfinke/CreatingWithCode)
   - Slides + Code for CWC Club
+- [movies](https://github.com/atfinke/movies)
+  - Movies I saw over the summer
+- [Project Ideas](https://github.com/atfinke/Project-Ideas)
+  - Some ideas I'm thinking about
+  
 <br>
 
 ## Private
@@ -68,8 +84,22 @@
   - Coursework
 - [EECS-211](https://github.com/atfinke/EECS-211)
   - Coursework
+- [EECS-213](https://github.com/atfinke/EECS-213)
+  - Coursework
+- [EECS-214](https://github.com/atfinke/EECS-214)
+  - Coursework
 - [Fidelity](https://github.com/atfinke/Fidelity)
   - Scraps Fidelity portfolio data
+- [Lake](https://github.com/atfinke/EECS-211)
+  - A digital wizard of oz prototyping tool. See it @ CHI 2019.
+- [Rain](https://github.com/atfinke/Rain)
+  - An audio player based on Lake
+- [Rain X](https://github.com/atfinke/Rain-X)
+  - The real deal
+- [Data Science](https://github.com/atfinke/data-science)
+  - Random data experiments 
+  
+  
   
 <br>
 <br>
